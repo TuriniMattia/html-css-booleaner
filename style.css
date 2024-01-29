@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+}
+
+header {
+    text-align: left;
+    background-image: url(img/pattern.png);
+    background-color: rgb(78, 160, 255);
+    background-size: contain;
+    padding-left: 120px;
+    height: 200px;
+}
+
+main {
+    background: white;
+    margin-top: -85px;
+    padding-left: 120px;
+}
+
+#logo {
+    width: 200px;
+    margin-top: 55px;
+    height: auto;
+}
+
+footer {
+    padding-left: 120px;
+}
+
+.container {
+    position: relative;
+    color: white;
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.titolo-tabella {
+    background-color: lightseagreen;
+    color: white;
+}
+
+.righe {
+    background-color: aqua;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.photo-footer {
+    font-size: 11px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
