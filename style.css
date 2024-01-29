@@ -56,3 +56,18 @@ a:link {
     margin-top: 0;
     margin-bottom: 0;
 }
+
+.credits {
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.date {
+    font-size: 11px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h1 { 
+    margin-bottom: 0;
+}
