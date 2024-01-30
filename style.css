@@ -41,6 +41,7 @@ footer {
 .table-title {
     background-color: lightseagreen;
     color: white;
+    border-radius: 30px;
 }
 
 .line {
